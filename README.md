@@ -29,7 +29,7 @@ accurate, context-aware answers directly from CSE subject PDFs such as:
 -   ✅ Open Source
   
 -----------------------------------------------------------------------
-![Demo](Screenshot 2026-02-26 013840.png)
+![Demo](Data/demo.png)
 ------------------------------------------------------------------------
 
 ## 🧠 How It Works
