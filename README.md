@@ -15,7 +15,6 @@ accurate, context-aware answers directly from CSE subject PDFs such as:
 -   And more...
 
 ------------------------------------------------------------------------
-![Project Demo](Screenshot 2026-02-26 013840.png)
 
 ## 🔍 Features
 
@@ -28,7 +27,9 @@ accurate, context-aware answers directly from CSE subject PDFs such as:
 -   ✅ Streamlit-based Interactive UI\
 -   ✅ Demo Video Included\
 -   ✅ Open Source
-
+  
+-----------------------------------------------------------------------
+![Demo](Screenshot 2026-02-26 013840.png)
 ------------------------------------------------------------------------
 
 ## 🧠 How It Works
