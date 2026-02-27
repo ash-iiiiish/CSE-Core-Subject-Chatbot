@@ -13,6 +13,8 @@ accurate, context-aware answers directly from CSE subject PDFs such as:
 -   Computer Networks
 -   Compiler Design
 -   And more...
+-----------------------------------------------------------------------
+![Demo](Data/demo.png)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +30,6 @@ accurate, context-aware answers directly from CSE subject PDFs such as:
 -   ✅ Demo Video Included\
 -   ✅ Open Source
   
------------------------------------------------------------------------
-![Demo](Data/demo.png)
 ------------------------------------------------------------------------
 
 ## 🧠 How It Works
