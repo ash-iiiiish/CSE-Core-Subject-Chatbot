@@ -12,7 +12,6 @@ accurate, context-aware answers directly from CSE subject PDFs such as:
 -   DBMS
 -   Computer Networks
 -   Compiler Design
--   And more...
 -----------------------------------------------------------------------
 ![Demo](Data/demo.png)
 
