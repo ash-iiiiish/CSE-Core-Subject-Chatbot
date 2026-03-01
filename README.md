@@ -2,7 +2,7 @@
 # 🚀 GenAI-Powered CSE Core Subjects Chatbot : 
 
 A Generative AI-based chatbot designed specifically for **Computer
-Science Engineering (CSE) core subjects**.
+Science Engineering (CSE) core subjects**..
 
 This project leverages Retrieval-Augmented Generation (RAG) to provide
 accurate, context-aware answers directly from CSE subject PDFs such as:
